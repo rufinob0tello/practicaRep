@@ -16,6 +16,9 @@ Mantenimiento: Se corrigen errores y se realizan mejoras.
 
 ### Ventajas:
 ✅ Claridad y estructura: Es fácil de entender y gestionar debido a su naturaleza secuencial.
+
 ✅ Documentación completa: Cada fase genera documentación detallada, útil para el mantenimiento.
+
 ✅ Facilita la gestión del proyecto: Ideal para proyectos con requerimientos bien definidos.
+
 ✅ Menor riesgo de cambios inesperados: Como los requerimientos se establecen desde el inicio, hay menos cambios durante el desarrollo.

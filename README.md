@@ -34,5 +34,7 @@ Mantenimiento: Se corrigen errores y se realizan mejoras.
 
 ❌ No apto para proyectos dinámicos: No es ideal para proyectos con cambios frecuentes o que requieran innovación constante.
 
-![image](https://github.com/user-attachments/assets/20a92772-6e74-47df-95e0-62265e548080)
+
+![image](https://github.com/user-attachments/assets/1993e125-08cb-49ba-87f6-724c6c9359cf)
+
 

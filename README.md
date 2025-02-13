@@ -14,6 +14,7 @@ Despliegue: Se entrega el producto final al usuario.
 
 Mantenimiento: Se corrigen errores y se realizan mejoras.
 
+
 ### Ventajas:
 ✅ Claridad y estructura: Es fácil de entender y gestionar debido a su naturaleza secuencial.
 
@@ -23,6 +24,7 @@ Mantenimiento: Se corrigen errores y se realizan mejoras.
 
 ✅ Menor riesgo de cambios inesperados: Como los requerimientos se establecen desde el inicio, hay menos cambios durante el desarrollo.
 
+
 ### Desventajas:
 ❌ Rigidez: No permite modificaciones una vez iniciada una fase.
 
@@ -31,3 +33,6 @@ Mantenimiento: Se corrigen errores y se realizan mejoras.
 ❌ Entrega tardía del producto: No hay prototipos intermedios, lo que puede retrasar la retroalimentación del cliente.
 
 ❌ No apto para proyectos dinámicos: No es ideal para proyectos con cambios frecuentes o que requieran innovación constante.
+
+![image](https://github.com/user-attachments/assets/20a92772-6e74-47df-95e0-62265e548080)
+

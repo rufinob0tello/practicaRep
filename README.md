@@ -22,3 +22,12 @@ Mantenimiento: Se corrigen errores y se realizan mejoras.
 ✅ Facilita la gestión del proyecto: Ideal para proyectos con requerimientos bien definidos.
 
 ✅ Menor riesgo de cambios inesperados: Como los requerimientos se establecen desde el inicio, hay menos cambios durante el desarrollo.
+
+### Desventajas:
+❌ Rigidez: No permite modificaciones una vez iniciada una fase.
+
+❌ Requiere requisitos bien definidos: Si hay errores en la etapa inicial, se trasladan a todo el proyecto.
+
+❌ Entrega tardía del producto: No hay prototipos intermedios, lo que puede retrasar la retroalimentación del cliente.
+
+❌ No apto para proyectos dinámicos: No es ideal para proyectos con cambios frecuentes o que requieran innovación constante.
